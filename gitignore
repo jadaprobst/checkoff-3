@@ -1,0 +1,15 @@
+# build artifacts
+build/
+*.o
+*.out
+a.out
+auth_O0
+auth_O2
+auth_tmp
+fix_tmp
+ti_tmp
+selfcmp
+
+# editor / system
+.DS_Store
+.vscode/
